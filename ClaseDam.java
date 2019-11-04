@@ -13,7 +13,7 @@ public class ClaseDam {
      */
     public ClaseDam(int maximoNumeroALumnos) {
         tutor = "desconocido";
-        aula = "desconocida";
+        aula = "desconocido";
         centro = "desconocido";
         alumnos = new ArrayList<Alumno>();
         capacidad = maximoNumeroALumnos;
